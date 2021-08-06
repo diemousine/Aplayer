@@ -5,7 +5,7 @@
  
 ## Como funciona?
  
-	Primeiro eu pesquiso no google as palavras "index.of /nome da banda"
+ Primeiro eu pesquiso no google as palavras "index.of /nome da banda"
  Depois eu copio a url do resulta e colo na barra de url o Audio Player Hacker
  Pressiono Enter para enviar o formulário e o servidor mapear o conteúdo HTML procurando links para arquivos .mp3 (só configurei para mp3)
  Então aparece uma lista e eu posso clicar sobre o item na lista para tocar. E quando uma música acaba a próxima é iniciada
