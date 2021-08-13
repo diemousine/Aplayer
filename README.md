@@ -1,5 +1,7 @@
 # Aplayer
- A ideia inicial era criar o Audio Player Hacker. Um webapp para tocar músicas direto de pastas vulneráveis na internet,
+ Author: Diego S. D. Mousine
+	
+	A ideia inicial era criar o Audio Player Hacker. Um webapp para tocar músicas direto de pastas vulneráveis na internet,
  Mas depois de um tempo resolvi criar um indexador de urls de pastas vulneráveis, porém ainda não tive tempo para continuar o projeto
  Contudo, aí está um player grátis.
  
